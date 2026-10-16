@@ -34,7 +34,7 @@ Instead of navigating through Windows network settings manually, TunnelShare pro
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/davifelipef/tunnel-share.git>
+git clone https://github.com/davifelipef/tunnel-share.git
 cd TunnelShare
 ```
 
